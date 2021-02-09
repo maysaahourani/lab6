@@ -1,0 +1,35 @@
+body{ 
+background-color: blueviolet;
+background-size: 20px;
+width: 960;
+border: chartreuse;
+border-spacing: 100px;
+}
+
+.info{
+    background-color: cadetblue;
+    width: 400;
+    height: 350;
+    line-height: 2.5;
+    
+margin-top: 200px;
+     }
+.tea1{
+    float: right;
+    width: 150px;
+    height: 130px;
+
+}
+
+.coffee1{
+    width: 150px;
+    height: 130px;
+    float: right;
+
+}
+
+
+header nav ul li {
+    display: inline;
+margin-left: 5%;
+}
